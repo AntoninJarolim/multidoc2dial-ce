@@ -1,0 +1,90 @@
+[
+      {
+        "question": "No I do not need that information about benefits payable to my spouse.[SEP]agent: You want to know when benefits are payable to your spouse?||user: I would like to know about benefits for my spouse.",
+        "positive_passage": "Benefits Planner: Disability | Family Benefits | Social Security Administration //   Benefits For Your Spouse   When benefits are payable to your spouse :  Age 62 or older ,  unless he or she collects a higher Social Security benefit based on his or her earnings record.  The spouse benefit amount will be permanently reduced by a percentage based on the number of months until his or her full retirement age.  At any age if he or she is caring for your child under age 16 or disabled.  Your spouse would receive these benefits until the child reaches age 16.  At that time, the child's benefits continue ,  but your spouse's benefits stop unless he or she is old enough to receive retirement benefits age 62 or older or survivor benefits as a widow or widower age 60.",
+        "positive_passage_id": 118,
+        "found_at_rank": 0,
+        "DPR_result": [
+            {
+                "rank": 0,
+                "passage_id": 118,
+                "is_target": true,
+                "is_positive": null,
+                "score": 78.05950164794922,
+                "text": "Benefits Planner: Disability | Family Benefits | Social Security Administration //   Benefits For Your Spouse   When benefits are payable to your spouse :  Age 62 or older ,  unless he or she collects a higher Social Security benefit based on his or her earnings record.  The spouse benefit amount will be permanently reduced by a percentage based on the number of months until his or her full retirement age.  At any age if he or she is caring for your child under age 16 or disabled.  Your spouse would receive these benefits until the child reaches age 16.  At that time, the child's benefits continue ,  but your spouse's benefits stop unless he or she is old enough to receive retirement benefits age 62 or older or survivor benefits as a widow or widower age 60."
+            },
+            {
+                "rank": 1,
+                "passage_id": 111,
+                "is_target": false,
+                "is_positive": null,
+                "score": 78.05950164794922,
+                "text": "Benefits Planner: Disability | Family Benefits | Social Security Administration //   Benefits For Your Spouse   When benefits are payable to your spouse :  Age 62 or older ,  unless he or she collects a higher Social Security benefit based on his or her earnings record.  The spouse benefit amount will be permanently reduced by a percentage based on the number of months until his or her full retirement age.  At any age if he or she is caring for your child under age 16 or disabled.  Your spouse would receive these benefits until the child reaches age 16.  At that time, the child's benefits continue ,  but your spouse's benefits stop unless he or she is old enough to receive retirement benefits age 62 or older or survivor benefits as a widow or widower age 60."
+            },
+            {
+                "rank": 2,
+                "passage_id": 158,
+                "is_target": false,
+                "is_positive": null,
+                "score": 72.94395446777344,
+                "text": "Benefits Planner: Retirement | Benefits For Your Spouse | Social Security Administration //   Benefits For Your Spouse   Even if you have never worked under Social Security ,  you may be able to get spouse s retirement benefits if you are at least 62 years of age and your spouse is receiving retirement or disability benefits.  You can also qualify for Medicare at age 65.  If you are divorced ,  you may still be able to get benefits on your ex - spouse's record.  For information on the requirements for Divorced Spouse's Benefits ,  read \" If You Are Divorced  You can receive the spouse's benefit no matter what your age is if you are caring for their child who is also receiving benefits."
+            },
+            {
+                "rank": 3,
+                "passage_id": 153,
+                "is_target": false,
+                "is_positive": null,
+                "score": 72.94395446777344,
+                "text": "Benefits Planner: Retirement | Benefits For Your Spouse | Social Security Administration //   Benefits For Your Spouse   Even if you have never worked under Social Security ,  you may be able to get spouse s retirement benefits if you are at least 62 years of age and your spouse is receiving retirement or disability benefits.  You can also qualify for Medicare at age 65.  If you are divorced ,  you may still be able to get benefits on your ex - spouse's record.  For information on the requirements for Divorced Spouse's Benefits ,  read \" If You Are Divorced  You can receive the spouse's benefit no matter what your age is if you are caring for their child who is also receiving benefits."
+            },
+            {
+                "rank": 4,
+                "passage_id": 100,
+                "is_target": false,
+                "is_positive": null,
+                "score": 72.8829574584961,
+                "text": "Benefits Planner: Retirement | Benefits For Your Family | Social Security Administration //   Benefits For Your Spouse   Even if they have never worked under Social Security ,  your spouse may be able to get benefits if they are at least 62 years of age and you are receiving or eligible for retirement or disability benefits.  Your spouse can also qualify for Medicare at age 65."
+            },
+            {
+                "rank": 5,
+                "passage_id": 96,
+                "is_target": false,
+                "is_positive": null,
+                "score": 72.8829574584961,
+                "text": "Benefits Planner: Retirement | Benefits For Your Family | Social Security Administration //   Benefits For Your Spouse   Even if they have never worked under Social Security ,  your spouse may be able to get benefits if they are at least 62 years of age and you are receiving or eligible for retirement or disability benefits.  Your spouse can also qualify for Medicare at age 65."
+            },
+            {
+                "rank": 6,
+                "passage_id": 128,
+                "is_target": false,
+                "is_positive": null,
+                "score": 71.42825317382812,
+                "text": "Benefits Planner | Social Security Administration //   Spouse's Benefits   Even if you never worked under Social Security ,  you may still qualify for benefits if you are the :  spouse or divorced spouse of a retired worker ;  spouse or divorced spouse of a disabled worker ;  or  widow / widower or surviving divorced spouse of a deceased worker."
+            },
+            {
+                "rank": 7,
+                "passage_id": 135,
+                "is_target": false,
+                "is_positive": null,
+                "score": 71.42825317382812,
+                "text": "Benefits Planner | Social Security Administration //   Spouse's Benefits   Even if you never worked under Social Security ,  you may still qualify for benefits if you are the :  spouse or divorced spouse of a retired worker ;  spouse or divorced spouse of a disabled worker ;  or  widow / widower or surviving divorced spouse of a deceased worker."
+            },
+            {
+                "rank": 8,
+                "passage_id": 113,
+                "is_target": false,
+                "is_positive": null,
+                "score": 70.41651153564453,
+                "text": "Benefits Planner: Disability | Family Benefits | Social Security Administration //   Benefits For Your Divorced Spouse   If you are divorced, even if you have remarried ,  your ex - spouse may qualify for benefits on your record.  If your ex - spouse will also receive a pension based on work not covered by Social Security, such as government or foreign work, his or her Social Security benefit on your record may be affected.  To qualify on your record ,  your ex - spouse must :  have been married to you for at least 10 years ;  be at least 62 years old ;  be unmarried ;  and  not be eligible for an equal or higher benefit on his or her own Social Security record, or on someone else's Social Security record."
+            },
+            {
+                "rank": 9,
+                "passage_id": 120,
+                "is_target": false,
+                "is_positive": null,
+                "score": 70.41651153564453,
+                "text": "Benefits Planner: Disability | Family Benefits | Social Security Administration //   Benefits For Your Divorced Spouse   If you are divorced, even if you have remarried ,  your ex - spouse may qualify for benefits on your record.  If your ex - spouse will also receive a pension based on work not covered by Social Security, such as government or foreign work, his or her Social Security benefit on your record may be affected.  To qualify on your record ,  your ex - spouse must :  have been married to you for at least 10 years ;  be at least 62 years old ;  be unmarried ;  and  not be eligible for an equal or higher benefit on his or her own Social Security record, or on someone else's Social Security record."
+            }
+        ]
+    }
+]
